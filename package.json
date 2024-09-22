@@ -1,0 +1,12 @@
+{
+  "name": "kafka-cloud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "publish": "node publish.js",
+    "subscribe": "node subscribe.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
